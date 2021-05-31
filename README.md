@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dragosmatteo
 - 👀 I’m interested in programming, entrepreneurship, crypto, stock market, and sports.
-  - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on on anything.
+- 🌱 I’m currently learning Web Development and improving my skills every day!
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me on email: dragosmatteod@gmail.com
 
 <!---
