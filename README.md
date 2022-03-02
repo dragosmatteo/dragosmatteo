@@ -1,3 +1,7 @@
+Hi there I'm Matteo the dev👋
+
+https://twitter.com/dragos_matteo
+
 - 👋 Hi, I’m @dragosmatteo
 - 👀 I’m interested in Web Development, Web Design, Entrepreneurship, Crypto, Stock Market etc.
 - 🌱 I’m currently learning Web Development and improving my skills every day!
