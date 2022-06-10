@@ -13,19 +13,13 @@
 
 <p align="left"> <a href="https://twitter.com/dragos_matteo" target="blank"><img src="https://img.shields.io/twitter/follow/dragos_matteo?logo=twitter&style=for-the-badge" alt="dragos_matteo" /></a> </p>
 
--  🔭 I’m currently working on [Sea Explorers](https://github.com/dragosmatteo/seaexplorers)
-
-<!-- -  🌱 I’m currently learning **React, Web3, etc.** -->
-
--  👨‍💻 All of my projects are available at [http://dragosmatteo.com/](http://dragosmatteo.com/)
-
-<!-- -  📝 I regularly write articles on [http://dragosmatteo.com/blog](http://dragosmatteo.com/blog) -->
-
--  💬 Ask me about **Web Development 🚀**
-
-<!-- -  📄 Know about my experiences [https://dragosmatteo.com/wp-content/uploads/2022/02/D%C4%83moc_Drago%C8%99-Mateo.pdf](https://dragosmatteo.com/wp-content/uploads/2022/02/D%C4%83moc_Drago%C8%99-Mateo.pdf) -->
-
 -  👋 Hi, I’m @dragosmatteo
+
+<!-- -  🔭 I’m currently working on [Sea Explorers](https://github.com/dragosmatteo/seaexplorers) -->
+
+<!-- -  👨‍💻 All of my projects are available at [http://dragosmatteo.com/](http://dragosmatteo.com/) -->
+
+<!-- -  💬 Ask me about **Web Development 🚀** -->
 
 -  👀 I’m interested in Web Development, Web Design, Entrepreneurship, Crypto, Stock Market etc.
 
@@ -36,6 +30,10 @@
 -  📫 How to reach me **contact@dragosmatteo.com**
 
 -  ⚡ Fun fact **I don't like animals 🤣**
+
+<!-- -  🌱 I’m currently learning **React, Web3, etc.** -->
+<!-- -  📄 Know about my experiences [https://dragosmatteo.com/wp-content/uploads/2022/02/D%C4%83moc_Drago%C8%99-Mateo.pdf](https://dragosmatteo.com/wp-content/uploads/2022/02/D%C4%83moc_Drago%C8%99-Mateo.pdf) -->
+<!-- -  📝 I regularly write articles on [http://dragosmatteo.com/blog](http://dragosmatteo.com/blog) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
