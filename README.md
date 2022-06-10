@@ -52,8 +52,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dragosmatteo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dragosmatteo" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragosmatteo&show_icons=true&locale=en&layout=compact" alt="dragosmatteo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragosmatteo&show_icons=true&locale=en&layout=compact" alt="dragosmatteo" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dragosmatteo&show_icons=true&locale=en" alt="dragosmatteo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dragosmatteo&show_icons=true&locale=en" alt="dragosmatteo" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dragosmatteo&" alt="dragosmatteo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dragosmatteo&" alt="dragosmatteo" /></p>
