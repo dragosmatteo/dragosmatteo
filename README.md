@@ -1,7 +1,5 @@
 # Hi there, I'm Dragoș Matteo 👋
 
-## I'm a Developer!
-
 -  👋 Hi, I’m @dragosmatteo
 -  👀 I’m interested in Web Development, Web Design, Entrepreneurship, Crypto, Stock Market etc.
 -  🌱 I’m currently learning everything 🤣
