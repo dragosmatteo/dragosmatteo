@@ -6,18 +6,36 @@
 -  💞 I'm looking forward to collaborating on any cool project.
 -  📫 How to reach me on email: dragosmatteod@gmail.com
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Dragoș Matteo</h1>
+<h3 align="center">A passionate frontend developer from Romania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragosmatteo&label=Profile%20views&color=0e75b6&style=flat" alt="dragosmatteo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dragos_matteo" target="blank"><img src="https://img.shields.io/twitter/follow/dragos_matteo?logo=twitter&style=for-the-badge" alt="dragos_matteo" /></a> </p>
 
+-  🔭 I’m currently working on [Sea Explorers](https://github.com/dragosmatteo/seaexplorers)
+
+-  🌱 I’m currently learning **React, Web3, etc.**
+
+-  👨‍💻 All of my projects are available at [http://dragosmatteo.com/](http://dragosmatteo.com/)
+
+-  📝 I regularly write articles on [http://dragosmatteo.com/blog](http://dragosmatteo.com/blog)
+
+-  💬 Ask me about **Web Development 🚀**
+
+-  📫 How to reach me **contact@dragosmatteo.com**
+
+-  📄 Know about my experiences [https://dragosmatteo.com/wp-content/uploads/2022/02/D%C4%83moc_Drago%C8%99-Mateo.pdf](https://dragosmatteo.com/wp-content/uploads/2022/02/D%C4%83moc_Drago%C8%99-Mateo.pdf)
+
+-  ⚡ Fun fact **I don't like animals 🤣**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/drago-matteo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="drago-matteo" height="30" width="40" /></a>
 <a href="https://twitter.com/dragos_matteo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dragos_matteo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dragosmatteo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dragosmatteo/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/dragos.matteo333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dragos.matteo333/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dragos_matteo/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dragos_matteo/?hl=en" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dragosmatteo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dragosmatteo/" height="30" width="40" /></a>
+<a href="https://fb.com/dragos.matteo333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dragos.matteo333/" height="30" width="40" /></a>
+<a href="https://instagram.com/dragos_matteo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dragos_matteo/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
