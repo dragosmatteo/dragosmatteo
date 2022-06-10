@@ -54,6 +54,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragosmatteo&show_icons=true&locale=en&layout=compact" alt="dragosmatteo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dragosmatteo&show_icons=true&locale=en" alt="dragosmatteo" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dragosmatteo&show_icons=true&locale=en" alt="dragosmatteo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dragosmatteo&" alt="dragosmatteo" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dragosmatteo&" alt="dragosmatteo" /></p>
