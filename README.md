@@ -45,7 +45,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="inline-block">
+<p align="inline">
 
 <!-- Boostrap -->
 
