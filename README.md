@@ -1,12 +1,5 @@
 # Hi there, I'm Dragoș Matteo 👋
 
-<!-- -  👋 Hi, I’m @dragosmatteo
--  👀 I’m interested in Web Development, Web Design, Entrepreneurship, Crypto, Stock Market etc.
--  🌱 I’m currently learning everything 🤣
--  💞 I'm looking forward to collaborating on any cool project.
--  📫 How to reach me on email: dragosmatteod@gmail.com -->
-
-<!-- <h1 align="center">Hi 👋, I'm Dragoș Matteo</h1> -->
 <h3 align="center">A passionate Frontend Developer from Romania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragosmatteo&label=Profile%20views&color=0e75b6&style=flat" alt="dragosmatteo" /> </p>
@@ -14,12 +7,6 @@
 <p align="left"> <a href="https://twitter.com/dragos_matteo" target="blank"><img src="https://img.shields.io/twitter/follow/dragos_matteo?logo=twitter&style=for-the-badge" alt="dragos_matteo" /></a> </p>
 
 -  👋 Hi, I’m **@dragosmatteo**
-
-<!-- -  🔭 I’m currently working on [Sea Explorers](https://github.com/dragosmatteo/seaexplorers) -->
-
-<!-- -  👨‍💻 All of my projects are available at [http://dragosmatteo.com/](http://dragosmatteo.com/) -->
-
-<!-- -  💬 Ask me about **Web Development 🚀** -->
 
 -  👀 I’m interested in **Web Development, Web Design, Entrepreneurship, Crypto, Stock Market etc.**
 
@@ -31,8 +18,8 @@
 
 -  ⚡ Fun fact **I don't like animals 🤣**
 
-<!-- -  🌱 I’m currently learning **React, Web3, etc.** -->
-<!-- -  📄 Know about my experiences [https://dragosmatteo.com/wp-content/uploads/2022/02/D%C4%83moc_Drago%C8%99-Mateo.pdf](https://dragosmatteo.com/wp-content/uploads/2022/02/D%C4%83moc_Drago%C8%99-Mateo.pdf) -->
+-  📄 Know about my experiences [https://dragosmatteo.com/](https://dragosmatteo.com/)
+
 <!-- -  📝 I regularly write articles on [http://dragosmatteo.com/blog](http://dragosmatteo.com/blog) -->
 
 <h3 align="left">Connect with me:</h3>
