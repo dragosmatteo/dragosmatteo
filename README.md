@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/dragos_matteo" target="blank"><img src="https://img.shields.io/twitter/follow/dragos_matteo?logo=twitter&style=for-the-badge" alt="dragos_matteo" /></a> </p>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div class="badge-base LI-profile-badge" data-locale="ro_RO" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="dragosmatteo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ro.linkedin.com/in/dragosmatteo?trk=profile-badge">Dragoș-Mateo Dămoc</a></div>
 
 -  👋 Hi, I’m **@dragosmatteo**
