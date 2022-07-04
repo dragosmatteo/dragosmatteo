@@ -18,7 +18,7 @@
 
 -  📄 Know about my experiences [https://dragosmatteo.com/](https://dragosmatteo.com/)
 
--  ⚡ Fun fact **I don't like animals 🤣**
+<!---  ⚡ Fun fact **I don't like animals 🤣** -->
 
 <!-- -  📝 I regularly write articles on [http://dragosmatteo.com/blog](http://dragosmatteo.com/blog) -->
 <h3 align="left">Connect with me:</h3>
