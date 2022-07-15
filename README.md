@@ -22,10 +22,21 @@
 
 <!-- -  📝 I regularly write articles on [http://dragosmatteo.com/blog](http://dragosmatteo.com/blog) -->
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://discord.com/users/𝕯𝖗𝖆𝖌𝖔ș 𝕸𝖆𝖙𝖙𝖊𝖔#9841" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <!-- --><!-- --> <!-- -->  <!-- --> <a href="https://github.com/dragosmatteo" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><!-- --><!-- --> <!-- --> <!-- -->  <a href="https://www.linkedin.com/in/dragosmatteo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<!-- 
+<p align="left"> <a href="https://discord.com/users/𝕯𝖗𝖆𝖌𝖔ș 𝕸𝖆𝖙𝖙𝖊𝖔#9841" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <!-- --  <a href="https://github.com/dragosmatteo" target="\_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><!-- --  <a href="https://www.linkedin.com/in/dragosmatteo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<p align="left">
+<a href="https://www.codepen.io/dom-the-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
+<a href="https://www.dev.to/domdom_the_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/dom-the-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/dom_the_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/amrugiewicz-dom/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/Dom_TheDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.youtube.com/c/domthedeveloper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
 <!-- Html -->
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><!-- Css --><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
