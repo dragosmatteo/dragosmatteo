@@ -1,6 +1,6 @@
 # Hi there, I'm Dragoș Matteo 👋
 
-<h3 align="center">A passionate Frontend Developer from Romania</h3>
+<h3 align="center">A passionate Web Developer from Romania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragosmatteo&label=Profile%20views&color=0e75b6&style=flat" alt="dragosmatteo" /> </p>
 
