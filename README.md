@@ -22,7 +22,7 @@
 
 <!-- -  📝 I regularly write articles on [http://dragosmatteo.com/blog](http://dragosmatteo.com/blog) -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <!-- <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> -->
 <!-- <a href="https://www.dev.to/domdom_the_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> -->
